@@ -1,2 +1,0 @@
-# AplikasiPerhitunganHari
-Tugas 4
